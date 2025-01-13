@@ -8,11 +8,14 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wale-e&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=wale-e&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 <br/>
-- 🔭 I’m currently working with these languages ...
+- 🔭 I’m currently working with these languages and frameworks ...
 <div align=left>
-<image src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" width=60 height=60></image>
-<image src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width=60 height=60></image>
-<image src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width=60 height=60></image>
+<image src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" width=60 height=60></image>
+<image src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width=60 height=60></image>
+<image src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=60 height=60></image>
+<image src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=60 height=60></image>
+<image src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=60 height=60></image>
+ 
 </div> 
 <br/>
 - 🌱 I’m currently learning ...<br/>  
